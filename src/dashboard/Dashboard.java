@@ -15,6 +15,10 @@ public class Dashboard {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        Dash da=new Dash();
+        
+        da.setVisible(true);
+        da.setLocationRelativeTo(null);
         // TODO code application logic here
     }
     
